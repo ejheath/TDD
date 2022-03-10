@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{AF880B3F-E6D0-4915-9743-AE5671FB565A}|Default">
+  <MonoDevelop.Ide.ItemProperties.PalindromeExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Wordsmith.cs">
+    <Files>
+      <File FileName="Program.cs" Line="9" Column="13" />
+      <File FileName="UnitTest/UnitTest1.cs" Line="16" Column="22" />
+      <File FileName="WordSmith.cs" Line="16" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PalindromeExercise" expanded="True">
+            <Node name="PalindromeExercise" expanded="True">
+              <Node name="Wordsmith.cs" selected="True" />
+            </Node>
+            <Node name="UnitTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PalindromeExercise" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UnitTest FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
